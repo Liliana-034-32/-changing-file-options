@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ovoch", "ovoch\ovoch.csproj", "{C7AD97BB-033C-49E7-9CEF-CCA347646195}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7AD97BB-033C-49E7-9CEF-CCA347646195}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7AD97BB-033C-49E7-9CEF-CCA347646195}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7AD97BB-033C-49E7-9CEF-CCA347646195}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7AD97BB-033C-49E7-9CEF-CCA347646195}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {318FB620-B551-45D4-8728-197C9CFAE536}
+	EndGlobalSection
+EndGlobal
